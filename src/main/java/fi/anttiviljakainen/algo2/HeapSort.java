@@ -1,4 +1,4 @@
-package fi.sondeco.algo2;
+package fi.anttiviljakainen.algo2;
 
 public class HeapSort {
   

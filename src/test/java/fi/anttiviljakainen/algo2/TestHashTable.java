@@ -1,8 +1,10 @@
-package fi.sondeco.algo2;
+package fi.anttiviljakainen.algo2;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import fi.anttiviljakainen.algo2.HashTable;
 
 public class TestHashTable {
 

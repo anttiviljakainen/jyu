@@ -1,10 +1,12 @@
-package fi.sondeco.algo2;
+package fi.anttiviljakainen.algo2;
 
 import static org.junit.Assert.*;
 
 import java.util.Random;
 
 import org.junit.Test;
+
+import fi.anttiviljakainen.algo2.HeapSort;
 
 public class TestHeapSort {
 
